@@ -22,7 +22,7 @@
 - 📄 Know about my experiences [in future I will link my resume HERE](in future I will link my resume HERE)
 
 - ⚡ Quote 
- >“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
+    >“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

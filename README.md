@@ -2,7 +2,7 @@
 <h3 align="center">A passionate programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyber-dragon2&label=Profile%20views&color=0e75b6&style=flat" alt="cyber-dragon2" /> </p>
-<img src="https://riverlife.shopcadacdn.com/sites/files/riverlife/welcome800x236.jpg" />
+<img src="https://riverlife.shopcadacdn.com/sites/files/riverlife/welcome800x236.jpg" width=100% />
 - 🔭 I’m currently working on **Blog created with Flask**
 
 - 🌱 I’m currently learning **Flask**

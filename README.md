@@ -11,15 +11,15 @@
 
 - 🤝 I’m looking for help with **-------**
 
-- 👨‍💻 All of my projects are available at [in future I will link my portfolio HERE](/)
+- 👨‍💻 All of my projects are available at [in future I will link my portfolio HERE](/README.md)
 
-- 📝 I regularly write articles on [in future I will link my blog HERE](/)
+- 📝 I regularly write articles on [in future I will link my blog HERE](/README.md)
 
 - 💬 Ask me about **Python, C/C++**
 
 - 📫 How to reach me **cyberdart1410@gmail.com**
 
-- 📄 Know about my experiences [in future I will link my resume HERE](/)
+- 📄 Know about my experiences [in future I will link my resume HERE](/README.md)
 
 - ⚡ Quote 
     >“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler

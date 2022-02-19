@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [in future I will link my portfolio HERE](/README.md)
 
-- 📝 I regularly write articles on [in future I will link my blog HERE](/README.md)
+- 📝 I regularly write articles on [My Blog](https://insaneprogrammer.hashnode.dev/)
 
 - 💬 Ask me about **Python, C/C++**
 
